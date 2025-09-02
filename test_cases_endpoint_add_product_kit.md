@@ -651,10 +651,11 @@ misma ID de producto y cantidad de producto.
     ]
 }
     </pre></td>
-    <td>Código de respuesta:<br><br>
-        200 OK <br><br>
-        En el cuerpo de respuesta se agrega 51 cantidades producto 
-    </td>
+    <td><pre>Código de respuesta:<br>
+200 OK <br>
+En el cuerpo de respuesta se 
+agrega 51 cantidades producto 
+    </pre></td>
     <td>Código de respuesta:<br><br>
         200 OK <br><br>
         En el cuerpo de respuesta solo se agrega 1 cantidad de producto (primero que se agrego).
